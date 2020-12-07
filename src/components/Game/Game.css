@@ -1,0 +1,11 @@
+.game {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+}
+
+.headingText {
+  width: 100%;
+  text-align: center;
+  margin: 50px auto;
+}
